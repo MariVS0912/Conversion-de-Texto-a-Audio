@@ -19,7 +19,7 @@ try:
 except:
     pass
 
-st.subheader(' El paraíso imperfecto” – Augusto Monterroso ')
+st.subheader(' "El paraíso imperfecto" – Augusto Monterroso ')
 st.write('Un hombre llega al cielo y dice:\n—Esto es el paraíso.\nEl ángel asiente, pero añade:\n—Sí, pero aquí también hay serpientes.')
 
            
