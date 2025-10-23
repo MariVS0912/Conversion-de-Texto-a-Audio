@@ -19,10 +19,11 @@ try:
 except:
     pass
 
-st.subheader("El otro – Jorge Luis Borges")
-st.write(" Borges se encuentra con él mismo, más joven, sentado en un banco junto al río.
-Hablan un rato, y poco a poco ambos se convencen de que no están soñando.
-Cuando termina la conversación, cada uno vuelve a su tiempo, sabiendo que su encuentro fue real y a la vez imposible. "
+st.subheader(' El paraíso imperfecto” – Augusto Monterroso ')
+st.write(' Un hombre llega al cielo y dice:
+—Esto es el paraíso.
+El ángel asiente, pero añade:
+—Sí, pero aquí también hay serpientes. ' 
         
         )
            
