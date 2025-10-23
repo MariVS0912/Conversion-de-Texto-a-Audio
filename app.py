@@ -20,12 +20,8 @@ except:
     pass
 
 st.subheader(' El paraíso imperfecto” – Augusto Monterroso ')
-st.write(' Un hombre llega al cielo y dice:
-—Esto es el paraíso.
-El ángel asiente, pero añade:
-—Sí, pero aquí también hay serpientes. ' 
-        
-        )
+st.write('Un hombre llega al cielo y dice:\n—Esto es el paraíso.\nEl ángel asiente, pero añade:\n—Sí, pero aquí también hay serpientes.')
+
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
